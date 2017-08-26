@@ -1,0 +1,3 @@
+[submodule "geany-plugin.mk"]
+	path = geany-plugin.mk
+	url = https://github.com/b4n/geany-plugin.mk
